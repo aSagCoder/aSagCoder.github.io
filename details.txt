@@ -1,0 +1,53 @@
+I am a student-slash-developer with experience in JavaScript, HTML, C#, C, R and Python. My areas of interests are: AI/ML, Data Science, RPA and Game Development.
+
+asagcoder@gmail.com
+
+
+
+
+-------
+resume
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <h1>Resume</h1>
+    <h2>John Doe</h2>
+    <p>Web Developer</p>
+    <h3>Education</h3>
+    <ul>
+        <li>Bachelor of Science in Computer Science</li>
+        <!-- Add more education details as needed -->
+    </ul>
+    <h3>Experience</h3>
+    <ul>
+        <li>Web Developer at XYZ Company</li>
+        <!-- Add more experience details as needed -->
+    </ul>
+    <h3>Skills</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <!-- Add more skills as needed -->
+    </ul>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+</head>
+<body>
+    <h1>Contact</h1>
+    <p>If you have any questions or would like to contact me, please email me at johndoe@example.com.</p>
+</body>
+</html>
